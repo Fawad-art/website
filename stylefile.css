@@ -1,0 +1,95 @@
+*
+{
+margin: 0;
+padding: 0;
+}
+
+.jumbotron
+{
+    text-align: center;
+	font-family: cursive;
+	
+    
+}
+.checked
+{
+    color: orange;
+	transition: all .5s ease;
+	
+}
+.panel
+{
+    text-align: center;
+}
+.container
+{
+    padding:  1px;
+}
+p
+{
+	font-size: 15px;
+	text-align: justify-all;
+	color: palevioletred;
+}
+
+
+.panel-heading h2{
+    background: #1aaa1a;
+    color: #fff;
+    margin-left: 0 auto;
+	transition: all .5s ease;
+       
+    
+}
+
+img{
+    margin-top: 5px;
+	transition: all .5s ease;
+}
+#search{
+    width: 650px;
+    float: left;
+    padding: 20px;
+    margin-left: 50px;
+}
+.search-area{
+    width: 650px;
+    height: 50px;
+    background: #fff;
+    border-radius: 10px;
+   margin-right: 20px;
+    padding-left: 15px;
+}
+.search-btn{
+    height: 50px;
+	width: 50px;
+    border-radius: 5px;
+    color: white;
+    background: #1aaa1a;
+    margin-left: -60px;
+}
+
+.row ul{
+	margin-top: 8px;}
+
+
+.row ul li
+{
+	margin: 1px;
+}
+.carousel-inner{
+	background-color: palevioletred;
+	align-items: center;
+	color: palevioletred;
+	justify-content: center;
+	
+}
+.carousel-container{
+	max-width: 1000px;
+	list-style-image: none;
+	color: palevioletred;
+	transition: all .5s ease;
+	font-size-adjust: auto;
+	
+	
+}
